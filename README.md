@@ -6,7 +6,7 @@ It uses open datates for Italian, like EVALITA2016, you can find them in the dat
 
 ## Installation
 
-The jupyter noteboo are written to be run in Colab. 
+The jupyter notebook are written to be run in Colab. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
